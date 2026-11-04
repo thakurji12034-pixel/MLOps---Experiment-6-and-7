@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+#pickle isliye nhi likha kyuki ye error de ga aagr isko direct install kre ge(python direct insatll kr de ga)
+
+
